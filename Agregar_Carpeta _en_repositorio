@@ -1,0 +1,11 @@
+Posicionado en la ruta que contiene la carpeta estando en el repositorio local en KAli 
+
+usamos los siguientes comandos
+
+git add Modulo\ 2/ 
+git commit -m cambio2
+
+git pull 
+git push 
+
+git status 
